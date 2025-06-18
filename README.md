@@ -40,7 +40,7 @@ A full-featured cross-platform **Expense Tracker App** built with **React Native
 <p float="left">
   <img src="images/welcome.jpg" alt="Welcome" width="200"/>
   <img src="images/login.jpg" alt="Login" width="200"/>
-  <img src="images/register.jpg" alt="Register" width="200"/>
+  <img src="images/regeister.jpg" alt="Register" width="200"/>
   <img src="images/home.jpg" alt="Home" width="200"/>
   <img src="images/profile.jpg" alt="Profile" width="200"/>
   <img src="images/stats.jpg" alt="Stats" width="200"/>
